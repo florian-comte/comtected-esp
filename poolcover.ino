@@ -1,4 +1,4 @@
-// ESP8266 Controller - By Florian COMTE
+// ESP8266 Pool cover controller - By Florian COMTE
 
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
